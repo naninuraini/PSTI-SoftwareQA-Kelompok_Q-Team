@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Gagal login Silahkan hubungi helpdesk _c8228c</name>
+   <tag></tag>
+   <elementGuidId>bac79505-9b7a-4339-98ae-585efbccc54d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='fm1']/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Gagal login! Silahkan hubungi helpdesk universitas jika anda mengalami kesulitan&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ab799662-23bb-4a76-a3bf-6e473fc904ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gagal login! Silahkan hubungi helpdesk universitas jika anda mengalami kesulitan akses SSO.</value>
+      <webElementGuid>a5f6735a-ad20-43a1-bb56-0088d6c52482</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fm1&quot;)/div[@class=&quot;alert-top alert alert-danger&quot;]/span[1]</value>
+      <webElementGuid>15fcbb6d-607a-434e-b8a0-92157d96e9af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='fm1']/div/span</value>
+      <webElementGuid>2cce338c-ab70-41ba-9748-59c6442ce01c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CAPSLOCK key is turned on!'])[1]/preceding::span[1]</value>
+      <webElementGuid>4fd21013-1fe4-478f-89a0-559846e37e7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gagal login! Silahkan hubungi helpdesk universitas jika anda mengalami kesulitan akses SSO.']/parent::*</value>
+      <webElementGuid>19b180e6-0e84-4dd8-ae26-1e2ea3da3d6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>83476d9d-141c-4b2e-b46d-fce1b4b0dbff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Gagal login! Silahkan hubungi helpdesk universitas jika anda mengalami kesulitan akses SSO.' or . = 'Gagal login! Silahkan hubungi helpdesk universitas jika anda mengalami kesulitan akses SSO.')]</value>
+      <webElementGuid>ebacda13-558d-414d-b5d3-1b81c4b85ad3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
