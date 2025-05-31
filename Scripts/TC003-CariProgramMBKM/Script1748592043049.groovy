@@ -31,6 +31,8 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Single Sign On Uni
 
 WebUI.click(findTestObject('Object Repository/Page_Single Sign On Universitas Lampung/button_Login'))
 
+WebUI.click(findTestObject('Object Repository/Page_Dashboard Admin  Kampus Merdeka - Univ_69d92e/i_Dokumen Pendukung_ti ti-menu-2 ti-sm'))
+
 WebUI.click(findTestObject('Object Repository/Page_Dashboard Admin  Kampus Merdeka - Univ_69d92e/a_Daftar Periode'))
 
 WebUI.click(findTestObject('Object Repository/Page_Daftar Periode MBKM  Kampus Merdeka - _e5418e/a_Cari Program MBKM'))
