@@ -24,23 +24,18 @@ WebUI.navigateToUrl('https://mbkm.unila.ac.id/auth/login')
 WebUI.click(findTestObject('Object Repository/Page_Login  Kampus Merdeka - Universitas Lampung/a_Masuk dengan SSO Unila'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Single Sign On Universitas Lampung/input_CAPSLOCK key is turned on_username'), 
-    '2215061032')
+    '2255061022')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Single Sign On Universitas Lampung/input_CAPSLOCK key is turned on_password'), 
-    'iRe3u8w3dAtWK3eN0N8r4w==')
+    'qrQ0x4GockLpjUPR7f5ZCQ==')
 
 WebUI.click(findTestObject('Object Repository/Page_Single Sign On Universitas Lampung/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Page_Dashboard Admin  Kampus Merdeka - Univ_69d92e/div_ListMenu'))
+WebUI.click(findTestObject('Object Repository/Page_Dashboard Admin  Kampus Merdeka - Univ_69d92e/a_Daftar Periode'))
 
-WebUI.click(findTestObject('Page_Dashboard Admin  Kampus Merdeka - Univ_69d92e/div_DaftarPeriode'))
+WebUI.click(findTestObject('Object Repository/Page_Daftar Periode MBKM  Kampus Merdeka - _e5418e/a_Cari Program MBKM'))
 
-WebUI.click(findTestObject('Object Repository/Page_Daftar Periode MBKM  Kampus Merdeka - _e5418e/span_Cari Program MBKM'))
-
-WebUI.click(findTestObject('Object Repository/Page_Daftar Program MBKM  Kampus Merdeka - _fdcbed/b'))
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Daftar Program MBKM  Kampus Merdeka - _fdcbed/select_Semua Jenis Program                 _398018'), 
-    '1', true)
+WebUI.click(findTestObject('Object Repository/Page_Daftar Program MBKM  Kampus Merdeka - _fdcbed/a_Selengkapnya'))
 
 WebUI.closeBrowser()
 
