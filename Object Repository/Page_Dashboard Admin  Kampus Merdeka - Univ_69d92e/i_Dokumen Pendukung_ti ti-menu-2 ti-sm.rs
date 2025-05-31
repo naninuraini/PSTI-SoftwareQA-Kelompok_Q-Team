@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Dokumen Pendukung_ti ti-menu-2 ti-sm</name>
+   <tag></tag>
+   <elementGuidId>98f8ac6c-ef7a-4dc1-b236-e0386030ce8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='layout-navbar']/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.ti.ti-menu-2.ti-sm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b62708f9-d060-4457-a633-018f44375009</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ti ti-menu-2 ti-sm</value>
+      <webElementGuid>fb33fbb7-0ed9-48ca-b210-17a6a82d373d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-navbar&quot;)/div[@class=&quot;layout-menu-toggle navbar-nav align-items-xl-center me-3 me-xl-0  d-xl-none&quot;]/a[@class=&quot;nav-item nav-link px-0 me-xl-4&quot;]/i[@class=&quot;ti ti-menu-2 ti-sm&quot;]</value>
+      <webElementGuid>94c039fd-9191-4526-9308-866236956dba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='layout-navbar']/div/a/i</value>
+      <webElementGuid>a5bae78a-eaf4-4a18-8649-5a26f6f9b641</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/a/i</value>
+      <webElementGuid>1d43db3e-a682-4a11-b195-bddc9a188f89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

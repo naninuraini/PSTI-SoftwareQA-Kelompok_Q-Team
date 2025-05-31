@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Dokumen Pendukung_ti ti-md ti-sun</name>
+   <tag></tag>
+   <elementGuidId>d361ad63-16d4-4a81-8a89-2b0a76e77be1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='navbar-collapse']/div/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.ti.ti-md.ti-sun</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>f26c1bfd-a5e3-40c6-815d-99b6545cc663</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ti ti-md ti-sun</value>
+      <webElementGuid>2ded8ff2-91d4-4821-a56a-ab423d8c8d6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>tooltip21130</value>
+      <webElementGuid>5e927644-bb1b-4f38-ad43-757d1506a501</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-collapse&quot;)/div[@class=&quot;navbar-nav align-items-center&quot;]/div[@class=&quot;nav-item dropdown-style-switcher dropdown me-2 me-xl-0&quot;]/a[@class=&quot;nav-link dropdown-toggle hide-arrow show&quot;]/i[@class=&quot;ti ti-md ti-sun&quot;]</value>
+      <webElementGuid>f08cdf19-4c4c-49d5-b7b0-d20f3871a18d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='navbar-collapse']/div/div/a/i</value>
+      <webElementGuid>937c5cee-0e01-4dd8-a1ac-3811bdd5661f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a/i</value>
+      <webElementGuid>3cac1576-ce28-49b1-8514-efcaea2a6cb7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

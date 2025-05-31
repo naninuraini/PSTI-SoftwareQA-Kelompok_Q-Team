@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC005-SimpanPermanenKRS</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7a500f4a-0fd2-4e96-ae2a-e9a278e89375</testCaseGuid>
+</TestCaseEntity>

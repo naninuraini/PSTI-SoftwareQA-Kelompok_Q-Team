@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Ubah Password</name>
+   <tag></tag>
+   <elementGuidId>1175038e-f4e4-492b-a894-d3dc201697b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-success.btn-xs.ms-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/section[2]/div/ul/li[1]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#password >> internal:role=link[name=&quot;Ubah Password&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>20377493-d5c6-4120-862e-45781783d690</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>btn</value>
+      <webElementGuid>5f4246a8-14d3-4e40-9ec9-52b269b92e8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://apps.unila.ac.id/password</value>
+      <webElementGuid>dcb1405d-48e2-42f0-baed-38a976777775</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success btn-xs ms-2</value>
+      <webElementGuid>f8d893eb-c355-4509-8435-ae3593b0f621</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>d13db0a2-4039-4a85-a4fc-a4f7af976a7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ubah Password</value>
+      <webElementGuid>3e7e4d0c-9f7c-43e8-86ed-210e164d6b47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;password&quot;)/div[@class=&quot;resume-section-content&quot;]/ul[1]/li[1]/a[@class=&quot;btn btn-success btn-xs ms-2&quot;]</value>
+      <webElementGuid>84f1fbcf-7e0b-414e-a67a-cb2097db4f53</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@type='btn']</value>
+      <webElementGuid>8fdc0a63-6644-4b36-a903-7b4cf1d136c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='password']/div/ul/li/a</value>
+      <webElementGuid>1db772e7-6577-47ce-8bb5-f6d206b18d28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Ubah Password')])[2]</value>
+      <webElementGuid>67f070df-26f4-49df-9fc8-ce9fdb957ea9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubah Password'])[2]/following::a[1]</value>
+      <webElementGuid>c38f6f6e-13fd-4525-9bb1-ac204a861265</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukkan username dan password anda'])[1]/preceding::a[1]</value>
+      <webElementGuid>8a4fa7a3-b550-4f4e-97ee-e06b8efd2e28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kemudian masukkan password lama, password baru, dan konfirmasi ulang password baru anda'])[1]/preceding::a[1]</value>
+      <webElementGuid>6c13623e-6fce-4353-8af8-35e13b42829e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://apps.unila.ac.id/password')]</value>
+      <webElementGuid>35668060-5d37-442a-adbe-84224e6703d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/ul/li/a</value>
+      <webElementGuid>7ebb0de4-afdc-4f1d-9d20-4613464f4d6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@type = 'btn' and @href = 'https://apps.unila.ac.id/password' and (text() = 'Ubah Password' or . = 'Ubah Password')]</value>
+      <webElementGuid>2cc4ce1f-d95a-4e6a-b67d-bba76b800877</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC006-SyncronizeSIAKADU</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3abb56f5-035a-48fb-b01e-f5ad451bc473</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_System</name>
+   <tag></tag>
+   <elementGuidId>00972a38-37d6-41b8-8e10-45e71ef437b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='navbar-collapse']/div/div/ul/li[3]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(3) > a.dropdown-item > span.align-middle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; System&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cd509641-1d43-491c-9c84-794a16e6db1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>align-middle</value>
+      <webElementGuid>584d0898-a936-4a61-96c0-46c6523e1bd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>System</value>
+      <webElementGuid>e18ff8fc-4a0e-42a5-8757-d6fe2272df30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-collapse&quot;)/div[@class=&quot;navbar-nav align-items-center&quot;]/div[@class=&quot;nav-item dropdown-style-switcher dropdown me-2 me-xl-0&quot;]/ul[@class=&quot;dropdown-menu dropdown-menu-start dropdown-styles show&quot;]/li[3]/a[@class=&quot;dropdown-item&quot;]/span[@class=&quot;align-middle&quot;]</value>
+      <webElementGuid>917ff6f9-9a0c-44d6-ad97-da2a3adb2000</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='navbar-collapse']/div/div/ul/li[3]/a/span</value>
+      <webElementGuid>36dd9dbc-8b55-4617-8633-35e31999f7c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dark'])[1]/following::span[1]</value>
+      <webElementGuid>eb8ed8b0-4c0e-431c-bd78-a7862b34e52d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Light'])[1]/following::span[2]</value>
+      <webElementGuid>0e8a3b6a-5742-4cd1-a341-df7b0248a5a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MU'])[1]/preceding::span[2]</value>
+      <webElementGuid>92d61a8e-57c0-405b-bf52-3817fd3b8d5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MUHAMMAD DZIKRI ROFA'])[1]/preceding::span[3]</value>
+      <webElementGuid>bc643423-0d68-4f06-acdf-e4b8e45a2b26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='System']/parent::*</value>
+      <webElementGuid>7dbd8a1f-8c70-4e65-8d5f-9cb206ff3f5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/span</value>
+      <webElementGuid>a9dc056f-7ed9-433f-a715-1295ce403b85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'System' or . = 'System')]</value>
+      <webElementGuid>1bb13254-75a6-40c9-827e-b13988d27248</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

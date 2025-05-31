@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Selengkapnya</name>
+   <tag></tag>
+   <elementGuidId>41dca0c6-cb2c-473b-bcf9-f5bfc5f3183a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='program-container']/div/div/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.app-academy-md-50.btn.btn-label-primary.d-flex.align-items-center.w-100</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.app-academy-md-50 >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e48206d4-1fdf-48b9-b385-79e4ca539b41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>app-academy-md-50 btn btn-label-primary d-flex align-items-center w-100</value>
+      <webElementGuid>441b5742-ff88-4178-8aa4-c88bb693e6f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://mbkm.unila.ac.id/program-mbkm/detail?id_periode_mbkm=1ace11fd-24d3-4645-8fc9-53625294eb0f</value>
+      <webElementGuid>5f63bf59-9468-44ad-a97c-7db284f5e25a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    Selengkapnya
+                                </value>
+      <webElementGuid>dd6ca6fd-e28d-46f1-bd94-afcfd230a21b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;program-container&quot;)/div[@class=&quot;col-sm-6 col-lg-4&quot;]/div[@class=&quot;card p-2 h-100 shadow-none border&quot;]/div[@class=&quot;card-body p-3 pt-2&quot;]/div[@class=&quot;d-flex flex-column flex-md-row gap-2 text-nowrap&quot;]/a[@class=&quot;app-academy-md-50 btn btn-label-primary d-flex align-items-center w-100&quot;]</value>
+      <webElementGuid>2c80ea82-6d02-40b8-be87-93e8f08ed86f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='program-container']/div/div/div/div[2]/a</value>
+      <webElementGuid>667eaf6b-ca33-4d00-ac4c-8e8908fc37bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Magang Mandiri FEB (BANK BSI KCP KEDATON ) (Mandiri)'])[1]/following::a[1]</value>
+      <webElementGuid>06b26401-6ac6-4f71-be8b-5364432082dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(1)'])[1]/following::a[2]</value>
+      <webElementGuid>ddb4943b-640e-4f99-9c73-a60e77e3b601</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Magang/Praktik Kerja'])[3]/preceding::a[1]</value>
+      <webElementGuid>5943b1ef-c56e-4bcd-b79f-fb966e71e74f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://mbkm.unila.ac.id/program-mbkm/detail?id_periode_mbkm=1ace11fd-24d3-4645-8fc9-53625294eb0f')])[2]</value>
+      <webElementGuid>52f87ffd-ab9b-4c38-83a3-f707a28f4927</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/a</value>
+      <webElementGuid>c62f3fc2-81d5-4f60-aeef-722e00a4b5ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://mbkm.unila.ac.id/program-mbkm/detail?id_periode_mbkm=1ace11fd-24d3-4645-8fc9-53625294eb0f' and (text() = '
+                                    Selengkapnya
+                                ' or . = '
+                                    Selengkapnya
+                                ')]</value>
+      <webElementGuid>86846420-6479-4305-83a7-7b53567e4ff3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

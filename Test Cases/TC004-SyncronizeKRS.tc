@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004-SyncronizeKRS</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7d931f8e-6993-4161-a9eb-f40c3ec24db8</testCaseGuid>
+</TestCaseEntity>

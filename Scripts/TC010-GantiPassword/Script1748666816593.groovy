@@ -1,0 +1,63 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://mbkm.unila.ac.id/auth/login')
+
+WebUI.click(findTestObject('Object Repository/Page_Login  Kampus Merdeka - Universitas Lampung/a_Masuk dengan SSO Unila'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Single Sign On Universitas Lampung/input_CAPSLOCK key is turned on_username'), 
+    '2255061022')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Single Sign On Universitas Lampung/input_CAPSLOCK key is turned on_password'), 
+    'qrQ0x4GockLpjUPR7f5ZCQ==')
+
+WebUI.click(findTestObject('Object Repository/Page_Single Sign On Universitas Lampung/button_Login'))
+
+WebUI.click(findTestObject('Object Repository/Page_Dashboard Admin  Kampus Merdeka - Univ_69d92e/div_MUHAMMAD DZIKRI ROFA                   _a08620'))
+
+WebUI.click(findTestObject('Object Repository/Page_Dashboard Admin  Kampus Merdeka - Univ_69d92e/a_Ganti Password'))
+
+WebUI.navigateToUrl('https://apps.unila.ac.id/#password')
+
+WebUI.click(findTestObject('Object Repository/Page_APPS UNIVERSITAS LAMPUNG/a_Ubah Password'))
+
+WebUI.switchToWindowTitle('Login Page')
+
+WebUI.setText(findTestObject('Object Repository/Page_Login Page/input_Login_username'), '2255061022')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login Page/input_Login_password'), 'qrQ0x4GockLpjUPR7f5ZCQ==')
+
+WebUI.click(findTestObject('Object Repository/Page_Login Page/button_Login'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Ubah Password/input_UBAH PASSWORD_old_password'), 'qrQ0x4GockLpjUPR7f5ZCQ==')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Ubah Password/input_UBAH PASSWORD_password'), 'vuXT3GjfT+0zmP//42cicg==')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Ubah Password/input_UBAH PASSWORD_confirm_password'), 'vuXT3GjfT+0zmP//42cicg==')
+
+WebUI.click(findTestObject('Object Repository/Page_Ubah Password/button_Ubah Password'))
+
+WebUI.click(findTestObject('Object Repository/Page_Ubah Password/a_Logout'))
+
+WebUI.click(findTestObject('Object Repository/Page_APPS UNIVERSITAS LAMPUNG/button_OK'))
+
+WebUI.closeBrowser()
+
